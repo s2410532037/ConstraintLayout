@@ -24,7 +24,11 @@ dependencies {
 - 要新增控件的話，可以透過左邊的 Palette 來進行
 ![](./picture/Workspace_2.png)
 - 新增控件後，可以透過畫面藍圖中的點來替控件增加約束，進而使用右側的 Properties 來設定邊界以及寬高之類的屬性
+![](./picture/Workspace_4.png)
+- 在 Properties 內，邊界的設定可以透過設定數值(dp)，或者用百分比來進行調整
 ![](./picture/Workspace_3.png)
+- 控件的所有屬性都可以在 Properties 裡面來進行設定
+![](./picture/Workspace_5.png)
 - 除了與 ConstraintLayout 進行約束之外，也可以跟其他的控件進行約束，如上圖
 - 上圖中的鉛垂線為 Guidelines，可以用來幫助排版
 
